@@ -1,43 +1,43 @@
 # YouTube Video/Audio Downloader
 
-This is a simple Python application with a graphical user interface (GUI) to download videos or audio from YouTube using `pytube` and `tkinter`.
+This is a simple Python application with GUI to download videos or audio from YouTube using `pytube` and `tkinter`.
 
 ## Features
 
 - Download YouTube videos in the highest resolution available.
 - Download YouTube audio (music) in MP3 format.
-- Simple and intuitive GUI using `tkinter`.
+- Simple GUI `tkinter`.
 
 ## Requirements
 
-- Python 3.x
-- `pytube` library
-- `tkinter` library (usually included with Python installations)
-
+- Python +3.x
+- `pytube`
+- `tkinter`
+  
 ## Installation
 
-1. Clone the repository:
+1. Clone repository:
 
-    ```bash
+    ```
     git clone https://github.com/pbednar96/youtube_downloader.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to project dir:
 
-    ```bash
+    ```
     cd youtube_downloader
     ```
 
-3. Install the required libraries:
+3. Install requirements:
 
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
 ## Usage
 
-1. Run the application:
+1. Run APP:
 
-    ```bash
+    ```
     python youtube_downloader.py
     ```
